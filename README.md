@@ -37,7 +37,7 @@ You can view my portfolio [here](https://kaijeng.netlify.app/).
 
 | Project Link | Tools | Project Description | 
 |---|---|---|
-| 🏡 [Google Drive Inspector](https://github.com/KyleWong613/GoogleDriveInspector) | Python, JSON | University Project
+| ✇ [Google Drive Inspector](https://github.com/KyleWong613/GoogleDriveInspector) | Python, JSON | University Project
 | ₿ [Bitcoin Ticker](https://github.com/KyleWong613/BTC-ticker-yfinance) | Python | Cryptocurrency Ticker
 
 
